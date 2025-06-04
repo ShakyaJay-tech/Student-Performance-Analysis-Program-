@@ -1,6 +1,6 @@
 I completed COMP 218 - Fundamentals of programming at Concoria University. 
 
-It was required of to create this program from scratch as an assignment.
+It was required of us to create this program from scratch as an assignment.
 
 The purpose of this program was to analyse the performance of students based on a user-defined
 threshold.
